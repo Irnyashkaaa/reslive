@@ -927,10 +927,11 @@ body {
     padding: 20px 40px;
     font-weight: 700;
     font-size: 14px;
-    color: #fff;
-    cursor: pointer;
     border-radius: 15px;
     border-color: #ff7b47;
+    color: #fff;
+    cursor: pointer;
+
 }
 
 @media(max-width: 740px) {
