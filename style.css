@@ -929,6 +929,8 @@ body {
     font-size: 14px;
     color: #fff;
     cursor: pointer;
+    border-radius: 5px;
+    border-color: #ff7b47;
 }
 
 @media(max-width: 740px) {
@@ -1068,7 +1070,7 @@ body {
     cursor: pointer;
 }
 .social_item_img {
-    margin: -15px 20px 0px 0px
+    margin: -15px 20px 0px 0px;
 }
 
 @media(max-width: 470px) {
